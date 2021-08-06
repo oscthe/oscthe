@@ -1,5 +1,4 @@
 - Hi, I’m @oscthe
-- I’m interested in economics, finance, data analysis, statistics and all in between.
 
 <!---
 oscthe/oscthe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
