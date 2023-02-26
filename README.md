@@ -1,6 +1,7 @@
 # Hi there! :wave:
 
 My name is [first name] [last name],<br />
+
 I am a Quantitative Analyst from Stockholm, Sweden. I have a wide data science interest but with a special focus on finance and economics. I'm currently focusing on deep learning applications within finance (financial time series, option pricing, portfolio construction, ...) which is what I currently mostly read, code and post about here on GitHub. Some projects I have developed within this area:
 
 - [Neural Network Architecture for Option Pricing](http://www.google.com):<br />
